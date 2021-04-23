@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762307062435",
+    "project_id": "database-ex-e3604",
+    "storage_bucket": "database-ex-e3604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762307062435:android:e633efc2578bcaf9a7ad16",
+        "android_client_info": {
+          "package_name": "com.cookandroid.chatting_ex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762307062435-ruk34bb72amlavbc29hh218boe5u5jc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNfFzDPj-4ZILbuEtFvR9sCHdYw4j_1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762307062435-ruk34bb72amlavbc29hh218boe5u5jc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
